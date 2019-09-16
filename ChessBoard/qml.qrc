@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EmptyRect.qml</file>
+        <file>../figure/chess24/bB.png</file>
+        <file>../figure/chess24/bK.png</file>
+        <file>../figure/chess24/bN.png</file>
+        <file>../figure/chess24/bP.png</file>
+        <file>../figure/chess24/bQ.png</file>
+        <file>../figure/chess24/bR.png</file>
+        <file>../figure/chess24/wB.png</file>
+        <file>../figure/chess24/wK.png</file>
+        <file>../figure/chess24/wN.png</file>
+        <file>../figure/chess24/wP.png</file>
+        <file>../figure/chess24/wQ.png</file>
+        <file>../figure/chess24/wR.png</file>
+    </qresource>
+</RCC>
